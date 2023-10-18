@@ -1,5 +1,6 @@
 ## Manual CanineConnect  
-![CanineConnect Logo](/images/logo.png)
+<img src="/images/logo.png" alt="CanineConnect Logo" width="200" height="150">
+
 <br>Door Laura van Rooijen
 <br>
 <br>Minor Artificial Intelligence
