@@ -1,3 +1,13 @@
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Hardware Requirements](#HardwareRequirements)
+3. [Software Requirements](#SoftwareRequirements)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Troubleshooting](#troubleshooting)
+
+
 ## 1. Introduction
 The Canine Treat Dispenser Arduino code is designed to control a servo motor that dispenses treats to your dog. This manual provides instructions on how to set up and use the code effectively.
 <br>
