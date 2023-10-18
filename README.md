@@ -48,7 +48,7 @@ To control the servo motor, you need to install the Servo library. Here's how to
 2. Go to "Sketch" > "Include Library" > "Servo."
 3. This will include the Servo library in your project, allowing you to control the servo motor.
 
-<br><img src="/images/include.library.servo.png" alt="How to servo" width="200" height="150">
+<br><img src="/images/include.library.servo.png" alt="How to servo" width="400">
 <br>
 
 ## 5. Wiring Instructions
