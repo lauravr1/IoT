@@ -101,6 +101,7 @@ Verify the servo power source: Ensure that the servo is receiving power from a s
 - Error Code 2:"Error: 'delay' was not declared in this scope" 
 <br><img src="images/error2.png" alt="error2" width="400">
 <br>Explanation: This error occurs when you attempt to use the delay() function, but the Arduino IDE does not recognize it. The delay() function is a built-in Arduino function used to pause the program's execution for a specified duration, but in this case, something is preventing the Arduino IDE from understanding and locating this function.
+
 <br>Solution: To resolve this error, consider the following steps:
 1. Check for Typos: Ensure that the delay() function is spelled correctly. It should be all lowercase, and the parentheses must be correctly placed. It should look like this: delay(milliseconds);.
 2. Library Modifications: Sometimes, unintentional modifications to the Arduino core libraries can lead to this error. Revert any changes you may have made to these libraries.
