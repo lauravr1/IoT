@@ -37,6 +37,8 @@ To build the treat dispenser, you will need the following components:
 
 ## 3. Software Requirements
 You will need the Arduino IDE (Integrated Development Environment) to upload the code to your Arduino board. You can download the Arduino IDE from the official Arduino website (https://www.arduino.cc/en/software).
+
+![Arduino Logo](/images/arduino.png)
 <br>
 
 ## 4. Installing the Servo Library
