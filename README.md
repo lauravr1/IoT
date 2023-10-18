@@ -3,13 +3,14 @@
 1. [Introduction](#introduction)
 2. [Hardware Requirements](#HardwareRequirements)
 3. [Software Requirements](#SoftwareRequirements)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Troubleshooting](#troubleshooting)
+4. [Installing the Servo Library](#installingtheServoLibrary)
+5. [Wiring Instructions](#wiringinstructions)
+6. [Uploading the code](#troubleshooting)
 7. [Using the Treat Dispenser](#usingthetreatdispenser)
 8. [Customization](#customization)
 9. [Safety Precautions](#SafetyPrecautions)
-10. [Conclusion](#conclusion)
+10.[Troubleshooting](#troubleshooting)
+11. [Conclusion](#conclusion)
 
 
 ## 1. Introduction
@@ -77,5 +78,8 @@ You can customize the code by:
 - Keep the Arduino and wires out of your dog's reach to avoid damage.
 <br>
 
-## 10. Conclusion
+## 10. Troubleshooting
+
+
+## 11. Conclusion
 The Canine Treat Dispenser Arduino code is a simple way to control a treat dispenser for your dog. With this code, you can easily reward your pet with treats, enhancing training and playtime. Enjoy using this code to make your dog's day even more enjoyable!
