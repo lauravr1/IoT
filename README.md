@@ -3,9 +3,9 @@ Door Laura van Rooijen
 
 <br>
 <br>
-Minor Artificial Intelligence<br>
-Internet of things<br>
-David de Vries & Harm van Vugt<br>
+<br>Minor Artificial Intelligence
+<br>Internet of things
+<br>David de Vries & Harm van Vugt
 
 ## Table of Contents
 
