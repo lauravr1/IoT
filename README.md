@@ -1,3 +1,12 @@
+## Manual CanineConnect
+Door Laura van Rooijen
+
+<br>
+<br>
+Minor Artificial Intelligence
+Internet of things
+David de Vries & Harm van Vugt
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -79,7 +88,18 @@ You can customize the code by:
 <br>
 
 ## 10. Troubleshooting
+- Error Code 1: "Servo Not Properly Connected (Error: S-101)"
 
+Explanation: This error indicates that the servo motor is not correctly connected to the Arduino or the power source.
+Solution: Double-check the wiring: Ensure that the servo's signal wire is connected to the correct digital pin (e.g., pin 9), the power (V) wire is connected to a 5V source, and the ground (GND) wire is connected to the Arduino's ground (GND).
+Verify the servo power source: Ensure that the servo is receiving power from a stable 5V source. Check the voltage and make sure it's within the servo's operating range.
+
+- Error Code 2: "Undeclared Variable (Error: V-301)"
+
+Explanation: This error occurs when you attempt to use a variable that hasn't been declared in your code.
+Solution: Declare the missing variable with the appropriate data type in your code before using it
+
+<br>
 
 ## 11. Conclusion
 The Canine Treat Dispenser Arduino code is a simple way to control a treat dispenser for your dog. With this code, you can easily reward your pet with treats, enhancing training and playtime. Enjoy using this code to make your dog's day even more enjoyable!
