@@ -92,7 +92,7 @@ You can customize the code by:
 <br>
 
 ## 10. Troubleshooting
-<br><img src="/images/error1.png" alt="error.s-101" width="400">
+<br><img src="images/Error1.png" alt="error.s-101" width="400">
 <br>- Error Code 1: "Servo Not Properly Connected (Error: S-101)"
 
 Explanation: This error indicates that the servo motor is not correctly connected to the Arduino or the power source.
