@@ -92,13 +92,19 @@ You can customize the code by:
 <br>
 
 ## 10. Troubleshooting
+- Error Code 1: "Servo Not Properly Connected (Error: S-101)"
 <br><img src="images/Error1.png" alt="error.s-101" width="400">
-<br>- Error Code 1: "Servo Not Properly Connected (Error: S-101)"
-
-Explanation: This error indicates that the servo motor is not correctly connected to the Arduino or the power source.
-Solution: Double-check the wiring: Ensure that the servo's signal wire is connected to the correct digital pin (e.g., pin 9), the power (V) wire is connected to a 5V source, and the ground (GND) wire is connected to the Arduino's ground (GND).
+<br>Explanation: This error indicates that the servo motor is not correctly connected to the Arduino or the power source.
+<br>Solution: Double-check the wiring: Ensure that the servo's signal wire is connected to the correct digital pin (e.g., pin 9), the power (V) wire is connected to a 5V source, and the ground (GND) wire is connected to the Arduino's ground (GND).
 Verify the servo power source: Ensure that the servo is receiving power from a stable 5V source. Check the voltage and make sure it's within the servo's operating range.
 
+- Error Code 2:"Error: 'delay' was not declared in this scope"
+<br>Explanation: This error occurs when you attempt to use the delay() function, but the Arduino IDE does not recognize it. The delay() function is a built-in Arduino function used to pause the program's execution for a specified duration, but in this case, something is preventing the Arduino IDE from understanding and locating this function.
+<br>Solution: To resolve this error, consider the following steps:
+1. Check for Typos: Ensure that the delay() function is spelled correctly. It should be all lowercase, and the parentheses must be correctly placed. It should look like this: delay(milliseconds);.
+2. Library Modifications: Sometimes, unintentional modifications to the Arduino core libraries can lead to this error. Revert any changes you may have made to these libraries.
+3. Reinstallation of the Arduino IDE: If the problem persists, consider reinstalling the Arduino IDE. Sometimes, incorrect installations or corruption of program files can cause these issues.
+4. Arduino Core Update: Ensure that you are using an up-to-date version of the Arduino core for your specific board. Outdated or incompatible versions can sometimes lead to errors like this.
 
 <br>
 
