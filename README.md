@@ -102,10 +102,10 @@ Verify the servo power source: Ensure that the servo is receiving power from a s
 <br><img src="images/error2.png" alt="error2" width="800">
   - Explanation: This error occurs when you attempt to use the delay() function, but the Arduino IDE does not recognize it. The delay() function is a built-in Arduino function used to pause the program's execution for a specified duration, but in this case, something is preventing the Arduino IDE from understanding and locating this function.
   - Solution: To resolve this error, consider the following steps:
-1. Check for Typos: Ensure that the delay() function is spelled correctly. It should be all lowercase, and the parentheses must be correctly placed. It should look like this: delay(milliseconds);.
-2. Library Modifications: Sometimes, unintentional modifications to the Arduino core libraries can lead to this error. Revert any changes you may have made to these libraries.
-3. Reinstallation of the Arduino IDE: If the problem persists, consider reinstalling the Arduino IDE. Sometimes, incorrect installations or corruption of program files can cause these issues.
-4. Arduino Core Update: Ensure that you are using an up-to-date version of the Arduino core for your specific board. Outdated or incompatible versions can sometimes lead to errors like this.
+    1. Check for Typos: Ensure that the delay() function is spelled correctly. It should be all lowercase, and the parentheses must be correctly placed. It should look like this: delay(milliseconds);.
+    2. Library Modifications: Sometimes, unintentional modifications to the Arduino core libraries can lead to this error. Revert any changes you may have made to these libraries.
+    3. Reinstallation of the Arduino IDE: If the problem persists, consider reinstalling the Arduino IDE. Sometimes, incorrect installations or corruption of program files can cause these issues.
+    4. Arduino Core Update: Ensure that you are using an up-to-date version of the Arduino core for your specific board. Outdated or incompatible versions can sometimes lead to errors like this.
 
 <br>
 
