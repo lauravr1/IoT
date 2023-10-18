@@ -5,7 +5,6 @@ The Canine Treat Dispenser Arduino code is designed to control a servo motor tha
 ## 2. Hardware Requirements
 To use this code, you will need the following hardware:
 <br>
-
 - An Arduino board (e.g., Arduino Uno)
 - A servo motor
 - A push-button switch
