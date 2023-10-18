@@ -1,5 +1,5 @@
 ## Manual CanineConnect  
-<img src="/images/logo.png" alt="CanineConnect Logo" width="200" height="150">
+<img src="/images/logo.png" alt="CanineConnect Logo">
 
 <br>Door Laura van Rooijen
 <br>
