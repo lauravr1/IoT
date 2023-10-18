@@ -2,6 +2,7 @@
 <img src="/images/logo.png" alt="CanineConnect Logo">
 
 <br>Door Laura van Rooijen
+<br>500817506
 <br>
 <br>Minor Artificial Intelligence
 <br>Internet of things
