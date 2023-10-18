@@ -1,7 +1,5 @@
 ## Manual CanineConnect
 Door Laura van Rooijen
-
-<br>
 <br>
 <br>Minor Artificial Intelligence
 <br>Internet of things
