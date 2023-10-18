@@ -6,6 +6,8 @@
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Troubleshooting](#troubleshooting)
+7. [Safety Precautions](#SafetyPrecautions)
+6. [Conclusion](#conclusion)
 
 
 ## 1. Introduction
